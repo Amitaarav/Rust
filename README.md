@@ -2,6 +2,13 @@
 
 > A structured repository documenting my journey of learning Rust — from core fundamentals to advanced metaprogramming.
 
+why rust?
+1. Memory management
+2. Concurrency
+3. Speed
+
+Rust followd
+snake_case: hello_world (mandatory)
 ---
 
 ## 🚀 About This Repository
@@ -43,4 +50,5 @@ The goal is not just to write Rust code — but to understand how Rust works int
 ---
 
 ## 📂 Repository Structure
+- How does async rust work
 

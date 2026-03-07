@@ -28,3 +28,4 @@ fn is_even(a: u32) -> bool{
 fn get_len(s:String) -> (usize, String){
     return (s.len(), s); // returning the ownership of the variable back to the caller
 }
+
