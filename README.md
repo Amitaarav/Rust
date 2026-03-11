@@ -1,54 +1,18 @@
-# 🦀 Rust Learning Journey
+# Rust 100x Bootcamp Learning Journey
 
-> A structured repository documenting my journey of learning Rust — from core fundamentals to advanced metaprogramming.
+This repository contains my progress and code from the 100x Bootcamp for Rust. Each week focuses on specific core concepts of the language.
 
-why rust?
-1. Memory management
-2. Concurrency
-3. Speed
+## Weekly Navigation
 
-Rust followd
-snake_case: hello_world (mandatory)
----
+- [**Week 1: Fundamentals & Memory Management**](./Week-1/README.md)
+  - Basic Types, Ownership, Borrowing, Stack vs Heap.
+- [**Week 2: Data Modeling & Error Handling**](./Week-2/README.md)
+  - Structs, Enums, Pattern Matching, Option/Result.
+- [**Week 3: Advanced Concepts & Utilities**](./Week-3/README.md)
+  - Generics, Traits, Chrono, Dotenv.
 
-## 🚀 About This Repository
-
-This repository contains my hands-on Rust practice, experiments, and concept implementations.  
-Each commit reflects incremental learning and deeper understanding of Rust's core principles.
-
-The goal is not just to write Rust code — but to understand how Rust works internally.
+## How to use this repo
+Each folder contains a `README.md` explaining the concepts in detail with flow diagrams and code examples. You can navigate to either folder to learn about specific Rust features.
 
 ---
-
-## 🧠 Learning Roadmap
-
-### 🟢 Phase 1 — Rust Fundamentals
-- Ownership & Borrowing
-- Move semantics
-- Stack vs Heap
-- Structs & Enums
-- Pattern Matching
-- Error Handling (`Result`, `Option`)
-
-### 🟡 Phase 2 — Intermediate Rust
-- Traits & Trait Bounds
-- Generics
-- Modules & Crates
-- Collections (`Vec`, `HashMap`)
-- Smart Pointers (`Box`, `Rc`, `RefCell`)
-- Lifetimes (basic understanding)
-
-### 🔴 Phase 3 — Advanced Rust
-- `macro_rules!`
-- Procedural Macros
-- Attribute & Derive Macros
-- Async Rust
-- Concurrency
-- Interior Mutability
-- Zero-cost abstractions
-
----
-
-## 📂 Repository Structure
-- How does async rust work
-
+*Created with ❤️ by Amit Kumar*
