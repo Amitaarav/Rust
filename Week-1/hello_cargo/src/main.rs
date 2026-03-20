@@ -7,7 +7,6 @@ fn main() {
     s2.push_str(", how are you?"); // error: cannot borrow `s` as mutable, as it is not declared as mutable
     println!("{}", s2); // s is valid here : ownership is with main function
 
-
     let s3 = String::from("Hello Amit!");
     let s4 = s3; // s3 is moved to s4 and is no
     // longer valid here
