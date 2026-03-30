@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\100xBootcamp\Rust\rust-book-learn\datatypes\target\debug\deps\rand_core-82e117fb268b9fe7.d: C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\block.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\utils.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\seedable_rng.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\unwrap_err.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\word.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\../README.md
+
+C:\Users\USER\Desktop\100xBootcamp\Rust\rust-book-learn\datatypes\target\debug\deps\librand_core-82e117fb268b9fe7.rmeta: C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\block.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\utils.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\seedable_rng.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\unwrap_err.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\word.rs C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\../README.md
+
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\lib.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\block.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\utils.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\seedable_rng.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\unwrap_err.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\word.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.10.0\src\../README.md:
